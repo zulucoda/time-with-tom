@@ -27,7 +27,7 @@ const LINKS = {
 
 const FORMAT = {
   DATE: 'yyyy-MM-dd',
-  TIME: 'HH:SS',
+  TIME: 'HH:mm',
 };
 
 export { COLOURS, GRADIENTS, SHADOWS, LINKS, FORMAT };
